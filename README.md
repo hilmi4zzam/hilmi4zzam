@@ -27,11 +27,6 @@
 
 ### 📊 GitHub Stats
 
-<!-- WIDGET STATISTIK (GANTI 'GANTI_PAKE_USERNAME_LO' DENGAN USERNAME GITHUB LO) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hilmi4zzam&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Top Languages" height="150" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hilmi4zzam&theme=tokyonight" alt="GitHub Streak" />
 </p>
