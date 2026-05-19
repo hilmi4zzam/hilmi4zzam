@@ -1,8 +1,3 @@
-<!-- HEADER BANNER DENGAN CAPSULE RENDER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Junior%20Developer&fontSize=70" />
-</p>
-
 <!-- DESKRIPSI SINGKAT -->
 <h3 align="center">Junior Programmer</h3>
 
@@ -34,7 +29,6 @@
 
 <!-- WIDGET STATISTIK (GANTI 'GANTI_PAKE_USERNAME_LO' DENGAN USERNAME GITHUB LO) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hilmi4zzam&show_icons=true&theme=tokyonight&locale=en" alt="Hilmi's GitHub Stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hilmi4zzam&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Top Languages" height="150" />
 </p>
 
