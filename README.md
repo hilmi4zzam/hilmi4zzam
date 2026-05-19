@@ -1,5 +1,5 @@
 <!-- DESKRIPSI SINGKAT -->
-<h3 align="center">Junior Programmer</h3>
+<h1 align="center">Junior Programmer</h1>
 
 <p align="center">
   I Wish I Love Coding Like I love Prompting
