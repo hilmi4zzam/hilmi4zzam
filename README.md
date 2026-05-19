@@ -1,6 +1,6 @@
 <!-- HEADER BANNER DENGAN CAPSULE RENDER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Hi%20there,%20I'm%20Hilmi%20👋&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Junior%20Developer&fontSize=70" />
 </p>
 
 <!-- DESKRIPSI SINGKAT -->
